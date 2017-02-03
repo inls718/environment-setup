@@ -35,8 +35,8 @@ There will be a screen that asks you about GRUB (it is the booloader). Just pres
 
 `apt-get -y dist-upgrade #This does an full version upgrade of the installed software packages.`
 
-`apt-get gqrx #This installs GNURadio.`
+`apt-get install gqrx #This installs GNURadio.`
 
-`apt-get kali-linux-sdr #This installs other SDR-related packages.`
+`apt-get install kali-linux-sdr #This installs other SDR-related packages.`
 
 GOOD LUCK. 
